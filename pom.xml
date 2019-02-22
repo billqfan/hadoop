@@ -32,6 +32,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
         <version>3.0.2</version>
       </dependency>
     </dependencies>
+    <dependency> 
+      <groupId>com.apple</groupId> 
+      <artifactId>AppleJavaExtensions</artifactId>
+      <version>1.4</version> 
+    </dependency>
   </dependencyManagement>
 
   <distributionManagement>
